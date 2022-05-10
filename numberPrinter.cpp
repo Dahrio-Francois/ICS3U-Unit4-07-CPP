@@ -8,7 +8,7 @@
 #include <iostream>
 
 int main() {
-    // this function is the the famous Fizz-Buzz problem
+    // this function prints out numbers from 1000 to 2000
 
     int i = 999;
 
